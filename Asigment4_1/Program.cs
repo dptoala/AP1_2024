@@ -19,7 +19,9 @@ namespace Asigment4_1
                     int sum3 = 0;
                     Console.WriteLine("Please enter number 1: ");
                     int num1 = int.Parse(Console.ReadLine());
-                    Console.WriteLine("Please enter number 2: ");
+                    /*Hello */
+                    /*Hello*/ 
+                     Console.WriteLine("Please enter number 2: ");
                     int num2 = int.Parse(Console.ReadLine());
                     Console.WriteLine("Please enter number 3: ");
                     int num3 = int.Parse(Console.ReadLine());
